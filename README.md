@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+Studying and learning...
 <!--
 **Maxi2655/Maxi2655** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
